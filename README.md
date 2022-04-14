@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bszutshi05@gmail.com**
 
-- ⚡Hobbies **Playing Games,Listening Music**
+- ⚡Hobbies:  **Playing Games,Listening Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
