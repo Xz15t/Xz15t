@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mukund Mohan Zutshi</h1>
-<h3 align="center">CS Undergrad || Web Developer || Blockchain Enthusiast</h3>
+<h3 align="center">CS Undergrad || Web Developer || Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xz15t&label=Visitors&color=0eb410&style=flat-square" alt="xz15t" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zutshimukund" target="blank"><img src="https://img.shields.io/twitter/follow/zutshimukund?logo=twitter&style=for-the-badge" alt="zutshimukund" /></a> </p>
 
-- 🌱 I’m currently learning **Web 3.0, Rust**
+- 🌱 I’m currently learning **DS & Algo**
 
 - 📫 How to reach me **bszutshi05@gmail.com**
 
-- ⚡Hobbies:  **Playing Games,Listening Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zutshimukund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zutshimukund" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mukund-zutshi-060b0a219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukund-zutshi-060b0a219" height="30" width="40" /></a>
 <a href="https://instagram.com/m__zee05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m__zee05" height="30" width="40" /></a>
 </p>
