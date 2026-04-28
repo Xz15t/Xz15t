@@ -12,8 +12,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-mukund.zutshi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukund.zutshi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Xz15t-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xz15t)
-[![Location](https://img.shields.io/badge/Location-Gurgaon%2C%20India-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-Kanpur%2C%20India-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
@@ -25,7 +24,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHB2Mm0zYzNkdXVyazhzaTIzb2tlMWRtNDN5d2QyNnFzYmU4NnhveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" />
+<img align="right" width="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhlNnc2Z3JjeWt1amZidGV0ZWNnMXo0b3k3cTB6dmg4aXRxMXZubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" />
 
 > **Data Enthusiast** with nearly **3 years of experience** turning chaotic data into pipelines that *actually work* (yes, really).
 
@@ -44,14 +43,10 @@ I build data pipelines, wrangle ETL workflows, and make spreadsheets cry — so 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDhlNnc2Z3JjeWt1amZidGV0ZWNnMXo0b3k3cTB6dmg4aXRxMXZubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="340" />
-
 <br/><br/>
 
 ### 💻 Languages & Big Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
