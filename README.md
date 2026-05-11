@@ -30,11 +30,9 @@
 
 I build data pipelines, wrangle ETL workflows, and make spreadsheets cry — so finance teams don't have to. Allegedly good at making computers do the boring stuff automatically.
 
-- 💼 Professionally employed — yes, someone pays me to do this
 - 🔭 Building **data pipelines** that don't fall apart at 2am
 - 🌩️ Living in **GCP BigQuery + Cloud Composer + Airflow 3.0** — send help
 - 🤖 Poking **LLMs** with a stick — LangChain, LangGraph, Claude API
-- 🎓 B.Tech in **CS & Information Security** — spent 4 years for this moment
 
 <br clear="right"/>
 
