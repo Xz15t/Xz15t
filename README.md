@@ -88,6 +88,6 @@ I build data pipelines, wrangle ETL workflows, and make spreadsheets cry — so 
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a5c1a,100:0d2b0d&height=120&section=footer&text=Xzistchan&fontSize=28&fontColor=00ff41&fontAlign=50&fontAlignY=60)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a5c1a,100:0d2b0d&height=120&section=footer&text=Xz15t&fontSize=28&fontColor=00ff41&fontAlign=50&fontAlignY=60)
 
 </div>
