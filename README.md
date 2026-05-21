@@ -11,13 +11,16 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-mukund.zutshi%40gmail.com-0d2b0d?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d2b0d)](mailto:mukund.zutshi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mukund_Zutshi-0d2b0d?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0d2b0d)](https://www.linkedin.com/in/xz15t/)
-[![Location](https://img.shields.io/badge/Location-India-0d2b0d?style=for-the-badge&logo=googlemaps&logoColor=00ff41&labelColor=0d2b0d)](#)
+[![Gmail](https://img.shields.io/badge/mukund.zutshi%40gmail.com-0d2b0d?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d2b0d)](mailto:mukund.zutshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/in%2Fxz15t-0d2b0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d2b0d)](https://www.linkedin.com/in/xz15t/)
+[![Location](https://img.shields.io/badge/India-0d2b0d?style=for-the-badge&logo=googlemaps&logoColor=34A853&labelColor=0d2b0d)](#)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Xz15t&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Xz15t?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d2b0d)](https://github.com/Xz15t)
+[![GitHub Stars](https://img.shields.io/github/stars/Xz15t?label=Stars&style=for-the-badge&color=00ff41&labelColor=0d2b0d)](https://github.com/Xz15t)
+
 </div>
 
 ---
@@ -34,7 +37,7 @@ I build data pipelines, wrangle ETL workflows, and make spreadsheets cry — so 
 - 🌩️ Living in **GCP BigQuery + Cloud Composer + Airflow 3.0** — send help
 - 🤖 Poking **LLMs** with a stick — LangChain, LangGraph, Claude API
 
-> 🎯 **Open to Data Analyst & Analytics roles** — reach out on [LinkedIn](https://www.linkedin.com/in/xz15t/).
+> 🎯 **Open to new opportunities in the data field** — reach out on [LinkedIn](https://www.linkedin.com/in/xz15t/).
 
 <br clear="right"/>
 
@@ -88,7 +91,7 @@ $ whoami
 $ cat current_focus.txt
 > Building agentic analytics workflows with Claude API + LangGraph
 > Strengthening cloud data engineering skills (Airflow 3.0, Composer)
-> Open to new opportunities in Data Analytics & Business Analytics
+> Open to new opportunities in the data field
 
 $ ls /status/
 > available_immediately.txt  remote_or_hybrid.txt  full_time.txt
