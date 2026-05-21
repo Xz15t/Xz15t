@@ -11,15 +11,13 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/mukund.zutshi%40gmail.com-0d2b0d?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0d2b0d)](mailto:mukund.zutshi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/in%2Fxz15t-0d2b0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d2b0d)](https://www.linkedin.com/in/xz15t/)
-[![Location](https://img.shields.io/badge/India-0d2b0d?style=for-the-badge&logo=googlemaps&logoColor=34A853&labelColor=0d2b0d)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mukund.zutshi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xz15t/)
+[![Location](https://img.shields.io/badge/India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Xz15t&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Xz15t?label=Followers&style=for-the-badge&color=00ff41&labelColor=0d2b0d)](https://github.com/Xz15t)
-[![GitHub Stars](https://img.shields.io/github/stars/Xz15t?label=Stars&style=for-the-badge&color=00ff41&labelColor=0d2b0d)](https://github.com/Xz15t)
 
 </div>
 
