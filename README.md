@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2b0d,100:1a5c1a&height=200&text=Mukund&fontSize=60&fontColor=00ff41&fontAlignY=45&desc=Data%20Enthusiast%20%7C%20Data%20Engineer&descSize=18&descColor=a8ff78&descAlignY=68&fontAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d2b0d,100:1a5c1a&height=200&text=Mukund%20Zutshi&fontSize=60&fontColor=00ff41&fontAlignY=45&desc=Data%20Enthusiast%20%7C%20Risk%20Analytics&descSize=18&descColor=a8ff78&descAlignY=68&fontAlign=50)
 
 <!-- Typing Animation — theme adaptive -->
 <picture>
